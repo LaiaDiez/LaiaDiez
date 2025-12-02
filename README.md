@@ -2,7 +2,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
-🔭 Doing my PhD at  Institut de Recerca Biomèdica de Sant Pau (IIB-Sant Pau)<br>🌱 Learning how to survive in the world of bioinformatics<br>💬 Ask me! <br>⚡ Unit of Genomics of Complex Diseases (UGCD) ⚡
+🔭 Doing my PhD at  Barcelona Institute for Global Health (ISGlobal)<br>🌱 Learning how to survive in the world of bioinformatics<br>💬 Ask me! <br>⚡ 
 
 
 # 💻 Tech Stack:
